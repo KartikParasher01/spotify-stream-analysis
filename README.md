@@ -1,5 +1,7 @@
 # spotify-stream-analysis
 An interactive Power BI dashboard analyzing Spotify's most streamed songs of 2023 using Power Query, Excel, and custom visuals to uncover artist and track-level insights.
+
+![MusicDatabaseSchema](https://github.com/KartikParasher01/spotify-stream-analysis/blob/main/Spotify%20Dashboard.png)
 # 🎧 Spotify Stream Analysis Dashboard
 
 This project presents a detailed analysis of **Spotify's Most Streamed Songs of 2023**, built with **Power BI**, **Power Query**, **Excel**, and **PowerPoint**. It visualizes key metrics like total streams, track-level insights, artist performance, and time-based streaming trends.
